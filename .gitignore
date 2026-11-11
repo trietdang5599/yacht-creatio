@@ -20,6 +20,8 @@
 **/data.??-??.json
 !**/data.en-US.json
 
+[Aa]uto[Gg]enerated/
+
 # Local Creatio workspace exclusions
 /.application/
 /.clio/workspaceEnvironmentSettings.json
