@@ -1,0 +1,100 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "2eaf72d7-e9a0-4609-a8d5-d61dccb75f4c"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Yellow"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": "Yellow Light"
+        },
+        {
+          "SchemaColumnUId": "ef6b90a1-30f5-f960-7a9a-2a33e6d3c552",
+          "ColumnName": "UsrCode",
+          "Value": "yellow"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "334cd15a-e3c7-459e-9223-5ef9d8028fb8"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "GREEN"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": "Green Light"
+        },
+        {
+          "SchemaColumnUId": "ef6b90a1-30f5-f960-7a9a-2a33e6d3c552",
+          "ColumnName": "UsrCode",
+          "Value": "green"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "62d8f1dd-658e-48e6-9135-36ebc940a7f1"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Red"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": "Red Light"
+        },
+        {
+          "SchemaColumnUId": "ef6b90a1-30f5-f960-7a9a-2a33e6d3c552",
+          "ColumnName": "UsrCode",
+          "Value": "red"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "be3a883f-5023-4f50-9ab1-5111bf59a262"
+        },
+        {
+          "SchemaColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+          "ColumnName": "Name",
+          "Value": "Blue"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "ColumnName": "Description",
+          "Value": "Blue Light"
+        },
+        {
+          "SchemaColumnUId": "ef6b90a1-30f5-f960-7a9a-2a33e6d3c552",
+          "ColumnName": "UsrCode",
+          "Value": "blue"
+        }
+      ]
+    }
+  ]
+}
