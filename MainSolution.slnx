@@ -5,5 +5,13 @@
     <BuildType Name="dev-n8" />
     <BuildType Name="dev-nf" />
   </Configurations>
+  <Folder Name="/packages/" />
+  <Folder Name="/packages/UsrLaboratory/" />
+  <Folder Name="/packages/UsrLaboratory/Files/">
+    <Project Path="packages/UsrLaboratory/Files/UsrLaboratory.csproj">
+      <BuildType Solution="dev-n8|*" Project="Debug" />
+      <BuildType Solution="dev-nf|*" Project="Debug" />
+    </Project>
+  </Folder>
   <Project Path="packages\UsrYacht\Files\UsrYacht.csproj" />
 </Solution>

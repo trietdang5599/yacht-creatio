@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "b5c9de9a-5d1a-0a89-56c8-69b087245f3d",
     "Name": "UsrCustomer",
-    "ModifiedOnUtc": "\/Date(1794466510000)\/",
+    "ModifiedOnUtc": "\/Date(1794467717000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "aa670200-dbf1-4cdc-b5bb-3200916c9e2b",
@@ -36,6 +36,13 @@
         "IsKey": false,
         "ColumnName": "UsrName",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "8d8da58e-fb61-48d5-0a09-6390370087de",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "UsrCustomerType",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
       },
       {
         "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",

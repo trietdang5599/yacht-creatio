@@ -23,6 +23,11 @@
           "Value": "Truc"
         },
         {
+          "SchemaColumnUId": "8d8da58e-fb61-48d5-0a09-6390370087de",
+          "Value": "61d975f0-207b-40c3-9b0a-3599c44f3c15",
+          "DisplayValue": "Client"
+        },
+        {
           "SchemaColumnUId": "c1c356f7-5fa1-fc66-890a-305eb8d4745e",
           "Value": "\/Date(784746000000+0700)\/"
         }
@@ -49,6 +54,11 @@
         {
           "SchemaColumnUId": "6faf7563-e316-19da-e87c-f4e755bb9cc5",
           "Value": "Triet"
+        },
+        {
+          "SchemaColumnUId": "8d8da58e-fb61-48d5-0a09-6390370087de",
+          "Value": "912aab6e-8842-4046-87ac-1e87d72bc3f3",
+          "DisplayValue": "Employee"
         },
         {
           "SchemaColumnUId": "c1c356f7-5fa1-fc66-890a-305eb8d4745e",
@@ -79,6 +89,11 @@
           "Value": "Thien"
         },
         {
+          "SchemaColumnUId": "8d8da58e-fb61-48d5-0a09-6390370087de",
+          "Value": "912aab6e-8842-4046-87ac-1e87d72bc3f3",
+          "DisplayValue": "Employee"
+        },
+        {
           "SchemaColumnUId": "c1c356f7-5fa1-fc66-890a-305eb8d4745e",
           "Value": "\/Date(1794416400000+0700)\/"
         }
@@ -105,6 +120,11 @@
         {
           "SchemaColumnUId": "6faf7563-e316-19da-e87c-f4e755bb9cc5",
           "Value": "Duyen"
+        },
+        {
+          "SchemaColumnUId": "8d8da58e-fb61-48d5-0a09-6390370087de",
+          "Value": "5eb604c5-e6b0-4d42-b252-2579acb66e2c",
+          "DisplayValue": "Provider"
         },
         {
           "SchemaColumnUId": "c1c356f7-5fa1-fc66-890a-305eb8d4745e",
