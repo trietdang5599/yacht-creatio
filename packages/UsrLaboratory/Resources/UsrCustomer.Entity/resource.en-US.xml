@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Customer Lab" />
+			<Item Name="Columns.Name.Caption" Value="Name_Lookup" />
+			<Item Name="Columns.UsrBirthDate.Caption" Value="Birthday" />
+			<Item Name="Columns.UsrCCCD.Caption" Value="Citizen Identity Card" />
+			<Item Name="Columns.UsrCustomerType.Caption" Value="Customer Type" />
+			<Item Name="Columns.UsrEmail.Caption" Value="Email" />
+			<Item Name="Columns.UsrName.Caption" Value="Name (object)" />
+			<Item Name="Columns.UsrPhone.Caption" Value="Phone Number" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_dbdef98242794fd480a0b03f742d07bf.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_dbdef98242794fd480a0b03f742d07bf.Lanes.Lane_18d44be6ed6545dd9696869c366ec88f.Caption" Value="Lane 1" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,130 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "EntitySchemaManager",
+      "UId": "3e632818-469c-4c90-aa0c-e7387194e255",
+      "A2": "UsrVwContactAgeDays",
+      "A5": "58fdc8a7-726e-4c92-9248-856a53ca1446",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "36199936-3423-41c6-9aa0-343f43cae222",
+      "B8": "10.0.0.858",
+      "EG1": {
+        "UId": "7104aafc-a712-4e97-a5af-57f5b15f6a2b",
+        "A2": "UsrEntity_8d6e06fEventsProcess",
+        "A5": "58fdc8a7-726e-4c92-9248-856a53ca1446",
+        "B1": [],
+        "B2": [],
+        "B3": [],
+        "B8": "10.0.0.858",
+        "FJ1": [],
+        "IJ3": false,
+        "BK8": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+        "BK15": [],
+        "BK37": {
+          "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+          "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+          "A2": "NotificationCaption",
+          "A3": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "A4": "bb4d6607-026b-4b27-b640-8f5c77c1e89d",
+          "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+          "L8": {
+            "GS1": 3,
+            "GS2": "[#[PropertyValue:Caption]#]"
+          }
+        },
+        "BK1": "FFFFFFFF",
+        "BK2": "FFBBBBBB",
+        "BK3": [],
+        "BK5": [],
+        "BK4": [],
+        "BK9": [],
+        "BK10": true,
+        "BK34": "null",
+        "Labels": [],
+        "BK24": [],
+        "JC1": []
+      },
+      "D10": true,
+      "D8": "1b56b061-4e91-4974-9038-df8340e534f2",
+      "D29": "null",
+      "D30": "null",
+      "D31": "null",
+      "D3": "a232959d-281d-a3e5-932d-e04820bdec28",
+      "D2": [
+        {
+          "UId": "1dc8bdcb-caf5-2611-2514-eb0f4c1a1998",
+          "A2": "UsrAgeDays",
+          "A3": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A4": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A5": "58fdc8a7-726e-4c92-9248-856a53ca1446",
+          "S2": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+        },
+        {
+          "UId": "9f83aa42-081e-2d1f-bd25-84a5dc1e8edd",
+          "A2": "UsrBirthDate",
+          "A3": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A4": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A5": "58fdc8a7-726e-4c92-9248-856a53ca1446",
+          "S2": "d21e9ef4-c064-4012-b286-fa1a8171da44"
+        },
+        {
+          "UId": "a232959d-281d-a3e5-932d-e04820bdec28",
+          "A2": "UsrId",
+          "A3": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A4": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A5": "58fdc8a7-726e-4c92-9248-856a53ca1446",
+          "S2": "23018567-a13c-4320-8687-fd6f9e3699bd"
+        },
+        {
+          "UId": "3f1180b9-a75a-5aed-aa80-2b2696606374",
+          "A2": "UsrName",
+          "A3": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A4": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A5": "58fdc8a7-726e-4c92-9248-856a53ca1446",
+          "S2": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+        },
+        {
+          "UId": "98d4f70e-2df1-c923-0c31-ede66fe8374d",
+          "A2": "UsrContact",
+          "A3": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A4": "3e632818-469c-4c90-aa0c-e7387194e255",
+          "A5": "58fdc8a7-726e-4c92-9248-856a53ca1446",
+          "S2": "b295071f-7ea9-4e62-8d1a-919bf3732ff2",
+          "S4": "16be3651-8fe2-4159-8dd0-a803d4683dd3",
+          "E6": true,
+          "E20": true,
+          "E17": "UsrContactId",
+          "E18": "UsrContactName"
+        }
+      ],
+      "D6": [],
+      "D20": {
+        "A2": "UsrVwContactAgeDaysEvents",
+        "FA1": false,
+        "FA2": false,
+        "FA3": false,
+        "FA4": false,
+        "FA5": false,
+        "FA6": false,
+        "FA7": false,
+        "FA8": false,
+        "FA9": false,
+        "FA10": false,
+        "FA11": false,
+        "FA12": false,
+        "FA16": false,
+        "FA13": false,
+        "FA14": false,
+        "FA15": false,
+        "FA17": false
+      },
+      "D35": {},
+      "D36": {
+        "A3": "3e632818-469c-4c90-aa0c-e7387194e255",
+        "BS1": false
+      }
+    }
+  }
+}

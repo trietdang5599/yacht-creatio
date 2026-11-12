@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "d75ccc1a-e1a1-4af7-ab3e-bc261c050fbe",
+    "Name": "UsrCustomerType",
+    "ModifiedOnUtc": "\/Date(1794459365000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Customer Type"
+  }
+}
